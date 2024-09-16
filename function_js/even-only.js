@@ -52,3 +52,6 @@ function sumOfEvenNumbers(numbers) {
 const num = [12, 56, 79, 73, 66, 82, 66, 53, 33, 106]
 const sumOfEven = sumOfEvenNumbers(num)
 console.log('sum of even number are:', sumOfEven);
+
+
+
